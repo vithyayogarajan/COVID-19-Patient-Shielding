@@ -16,7 +16,9 @@ This research uses such publicly published information and predicts medical code
 
  **Pre-trained word embeddings based Neural Networks** 
  1. [CAML and DRCAML](https://github.com/jamesmullenbach/caml-mimic)  
- 2. [CNNText](https://arxiv.org/abs/1408.5882) example code provided. 
+ 2. [CNNText](https://arxiv.org/abs/1408.5882) [example code](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/icd9_cnntext.ipynb). 
+ 3. Embeddings can be downloaded from:[T100SG](https://drive.google.com/file/d/1yKV1PyKvvhT_Emjs2mQWCEEMNJUMTPmb/view?usp=sharing) and [T300SG](https://drive.google.com/file/d/1wxVla-7pqfxUqFiOCQgb6zE8kmVsY7l6/view?usp=sharing)
+ 4. [CD-plot and Nemenyi test using Python](https://github.com/vithyayogarajan/Medical-Domain-Specific-Language-Models/blob/main/Multilabel/posthoc-nemenyi.ipynb)
  
 **Transformers**
 Models used include:[BERT-base](https://github.com/google-research/bert),[Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT),[BioMed-RoBERTa](https://huggingface.co/allenai/biomed_roberta_base),[PubMedBERT](https://microsoft.github.io/BLURB/models.html),[MeDAL-Electra](https://github.com/BruceWen120/medal),[Longformer](https://github.com/allenai/longformer) and [TransformerXL](https://github.com/kimiyoung/transformer-xl)
