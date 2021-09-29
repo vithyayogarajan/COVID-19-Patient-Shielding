@@ -8,7 +8,7 @@ The Coronavirus disease 2019 (COVID-19) pandemic has presented a considerable ch
 
 This research uses such publicly published information and predicts medical codes that are listed as criteria for identifying high-risk categories from EHRs. Due to privacy and legal issues, obtaining current patient records from hospitals is not possible. However, EHRs from [MIMIC-III](https://physionet.org/works/MIMICIIIClinicalDatabase/access.shtml) and [eICU](https://eicu-crd.mit.edu/) are used for this research. ICD-9 codes associated with COVID-19 patient shielding for MIMIC-III data with recorded discharge summary is shown in the figure below. The level 1 ICD-9 groups associated with the codes to provide an understanding of the hierarchical grouping of the specific labels are also included. 
 
-<img src="https://user-images.githubusercontent.com/60803118/135203626-9684f468-504f-48ec-a924-3e993474f070.png" alt="covidtree" width="1000"/>
+<img src="https://user-images.githubusercontent.com/60803118/135203626-9684f468-504f-48ec-a924-3e993474f070.png" alt="covidtree" width="750"/>
 
 ## Classifiers and Language Models
 
